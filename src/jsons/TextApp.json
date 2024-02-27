@@ -1,0 +1,25 @@
+{
+    "MainApp":{
+        "header":"React OJT Change Password",
+        "change_password":"Change Password",
+        "change_passwordno":"Don't Change Password",
+        "login":"Login",
+        "sign_up":"Sign Up",
+        "joebanezair":"Kevin HSU - Joe creating react-app change password template",
+        "noto_found":"Page not found!",
+        "resetpromp":"'Hi this is Joe would you like to reset your password?'",
+        "clickthelink":"Click Me!",
+        "back_home":"Back to home",
+        "success":"Change Password Success!",
+        "failed":"Change Failed!",
+        "congrats":"Contratulations, your password has been successfully changed!"
+    },
+    "Link":{
+        "image1":"https://yt3.ggpht.com/a/AGF-l79zn2QSesF0fnNT6I1A0p_YX5qpF3XGZcUCFw=s900-c-k-c0xffffffff-no-rj-mo",
+        "image2":"https://www.gamespot.com/a/uploads/original/1596/15969599/3649787-witchbrook1.png",
+        "image3":"https://image.freepik.com/free-vector/fail-pixel-stamp_6343-424.jpg",
+        "githublink":"https://github.com/joebanezair/React-Change-Password.git",
+        "githublink1":""
+    }
+
+}

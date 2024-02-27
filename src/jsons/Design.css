@@ -1,0 +1,188 @@
+@import url('https://fonts.googleapis.com/css2?family=Micro+5&display=swap');
+
+#navigation-container{
+    display:flex;
+    padding: 10px;
+    border-bottom: 2px solid black;
+    justify-content: center;
+}
+#navigation-container div{
+    width: 50%;
+}
+#navigation-container div:nth-child(2){
+    text-align: right;
+}
+#navigation-container button{
+   border-color: black;
+   background-color: black;
+   text-transform: capitalize;
+   margin-right: 10px;
+   color: white;
+   font-family: "Micro 5", sans-serif;
+   font-weight: 400;
+   font-style: normal;
+   font-size: 22px;
+   padding-bottom: -10px;
+   padding: 0px;
+   padding-left: 20px;
+   padding-right: 20px;
+}
+#p11{
+   font-family: "Micro 5", sans-serif;
+   font-weight: 400;
+   font-style: normal;
+   background-color: black;
+   margin-top: -10px;
+   color: white;
+   width: fit-content;
+   align-self: center;
+   margin: auto;
+   padding: 20px;
+   border-radius: 0px;
+   width: 300px;
+}
+#header1{
+    text-align: center;
+    width: fit-content;
+    margin: auto;
+    border-radius: 20px;
+    padding: 20px;
+    margin-top: 5%;
+}
+#jsonText{
+    font-family: "Micro 5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    color: black;
+}
+#btn-change{
+    text-align: center;
+    border-color: #270134;
+    background-color: #270134;
+    text-transform: capitalize;
+    margin-right: 10px;
+    color: white;
+    font-family: "Micro 5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 22px;
+    padding-bottom: -10px;
+    padding: 0px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-top: 10px;
+    border-radius: 0px;
+    box-shadow: 0 0 3px #270134;
+}
+
+#joebottom{
+    position: absolute;
+    text-transform: capitalize;
+    background-color: black;
+    left: 20px;
+    bottom: 0;
+    margin-bottom: 20px;
+    box-shadow: 0 0 3px black;
+    border-radius: 0px;
+    padding: 20px;
+    font-style: italic;
+    color: white;
+    margin-right: 20px;
+}
+#rh001{
+    font-family: "Micro 5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+#rh002{
+    font-family: "Micro 5", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 25px;
+    font-style: italic;
+}
+
+#rh002 button{
+    text-align: center;
+    border-color: #270134;
+    background-color: #270134;
+    text-transform: capitalize;
+    margin-right: 10px;
+    color: white;
+    padding-bottom: -10px;
+    padding: 8px;
+    font-weight: bold;
+    margin-top: 10px;
+    border-radius: 0px;
+}
+#container {
+    border: 1px solid #270134;
+    width: fit-content;
+    text-align: center;
+    margin: auto;
+    text-align: center;
+    border-radius: 0px;
+    border-bottom: 4px solid #270134;
+    background-color: transparent;
+    border-bottom-right-radius: 0px;
+    border-top-right-radius: 0px;
+    border-radius: 0px;
+    box-shadow: 0 0 3px #57475c;
+}
+
+#container div{
+    padding: 20px;
+    color: #270134;
+}
+#container div:nth-child(1){
+    font-size: 40px;
+    color: #15001c;
+}
+#container h1{
+    margin-top: 20px;
+    color: #15001c;
+    font-style: lighter;
+    font-size: 30px;
+}
+
+  
+
+#flexie{
+    display: flex;
+    background-color: transparent;
+    padding: 40px;
+    width: fit-content;
+    border-radius: 10px;
+}
+#flexie div:nth-child(2){
+    font-family: "Micro 5", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    font-size: 43px;
+    color: rgb(0, 11, 0);
+    padding: 20px;
+    width: 300px;
+}
+#flexie div:nth-child(1){
+    position: absolute;
+    background-color: transparent;
+    color: rgb(2, 205, 2);
+    font-size: 270px;
+    margin-left: -17%;
+    margin-top: -4.0%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
